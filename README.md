@@ -14,8 +14,8 @@ This repository contains a simple Spring Boot application that demonstrates CRUD
 
 # API Endpoints
 
-i.   GET /api/users: Get a list of all users.
-ii.  GET /api/users/{id}: Get details of a specific user by ID.
-iii. POST /api/users: Create a new user.
-iv.  PUT /api/users: Update an existing user.
-v.   DELETE /api/users/{id}: Delete a user by ID.
+1. GET /api/users: Get a list of all users.
+2. GET /api/users/{id}: Get details of a specific user by ID.
+3. POST /api/users: Create a new user.
+4. PUT /api/users: Update an existing user.
+5. DELETE /api/users/{id}: Delete a user by ID.
