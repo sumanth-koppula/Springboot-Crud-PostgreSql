@@ -5,17 +5,17 @@ This repository contains a simple Spring Boot application that demonstrates CRUD
 
 # Technologies Used
 
-Java 17,
-Spring Boot 3.1.2,
-Spring Web (RESTful APIs),
-Spring Data JPA (Database access),
-PostgreSQL (Database),
-Maven (Build tool)
+1. Java 17,
+2. Spring Boot 3.1.2,
+3. Spring Web (RESTful APIs),
+4. Spring Data JPA (Database access),
+5. PostgreSQL (Database),
+6. Maven (Build tool)
 
 # API Endpoints
 
-GET /api/users: Get a list of all users.
-GET /api/users/{id}: Get details of a specific user by ID.
-POST /api/users: Create a new user.
-PUT /api/users: Update an existing user.
-DELETE /api/users/{id}: Delete a user by ID.
+i.   GET /api/users: Get a list of all users.
+ii.  GET /api/users/{id}: Get details of a specific user by ID.
+iii. POST /api/users: Create a new user.
+iv.  PUT /api/users: Update an existing user.
+v.   DELETE /api/users/{id}: Delete a user by ID.
