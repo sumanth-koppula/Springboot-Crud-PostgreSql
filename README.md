@@ -5,11 +5,11 @@ This repository contains a simple Spring Boot application that demonstrates CRUD
 
 # Technologies Used
 
-Java 17
-Spring Boot 3.1.2
-Spring Web (RESTful APIs)
-Spring Data JPA (Database access)
-PostgreSQL (Database)
+Java 17,
+Spring Boot 3.1.2,
+Spring Web (RESTful APIs),
+Spring Data JPA (Database access),
+PostgreSQL (Database),
 Maven (Build tool)
 
 # API Endpoints
